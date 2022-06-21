@@ -96,6 +96,10 @@ This could be a h1 if the font is set to be a title
 ```html
 <h1>...</h1>
 ```
+or be a p element if it's just set to be normal text
+```html
+<p>...</p>
+```
 ## JavascriptUI.Spacer
 This resembles the div shown below
 ```html
